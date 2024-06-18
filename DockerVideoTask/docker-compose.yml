@@ -1,0 +1,15 @@
+﻿version: '3.4'
+
+services:
+  DockerVideoTask:
+    image: DockerVideoTask:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - myvolume:/app/data
+
+volumes:
+  myvolume:

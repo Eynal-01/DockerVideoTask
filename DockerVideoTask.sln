@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockerVideoTask", "DockerVideoTask\DockerVideoTask.csproj", "{80EA89F8-0369-47FF-A47A-581E95435745}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80EA89F8-0369-47FF-A47A-581E95435745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80EA89F8-0369-47FF-A47A-581E95435745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80EA89F8-0369-47FF-A47A-581E95435745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80EA89F8-0369-47FF-A47A-581E95435745}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79240705-B495-42CC-B559-A89732431164}
+	EndGlobalSection
+EndGlobal
